@@ -1,0 +1,1 @@
+# medidas_de_posicao_dispercao
